@@ -58,31 +58,31 @@ body {
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text3 6s 1;
+    animation: text3 5.5s 1;
 }
 .text4{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text4 7s 1;
+    animation: text4 6s 1;
 }
 .text5{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text5 8s 1;
+    animation: text5 6.5s 1;
 }
 .text6{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text6 9s 1;
+    animation: text6 7s 1;
 }
 .text7{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text7 10s 1;
+    animation: text7 7.5s 1;
 }
 @keyframes text{
   0%{
