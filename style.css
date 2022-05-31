@@ -46,43 +46,43 @@ body {
     margin: 25px -60px 0px 105px;
     border-radius: 15px;
     background-color: rgb(68, 68, 68);
-    animation: link 3s 1;
+    animation: link 4s 1;
 }
 .text2{
   color: cadetblue;
   font-size: 40px;
-  animation: text2 3.5s 1;
+  animation: text2 6s 1;
   padding: 20px;
 }
 .text3{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text3 4s 1;
+    animation: text3 8s 1;
 }
 .text4{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text4 4.5s 1;
+    animation: text4 10s 1;
 }
 .text5{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text5 5s 1;
+    animation: text5 12s 1;
 }
 .text6{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text6 5.5s 1;
+    animation: text6 14s 1;
 }
 .text7{
     color: cadetblue;
     font-size: 25px;
     transform:color black 3s ;
-    animation: text7 6s 1;
+    animation: text7 16s 1;
 }
 @keyframes text{
   0%{
