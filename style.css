@@ -47,6 +47,8 @@ body {
     border-radius: 15px;
     background-color: rgb(68, 68, 68);
     animation: link 4s 1;
+    text-decoration:none;
+    color: rgb(43, 133, 250);
 }
 .link-header{
     text-decoration:none;
